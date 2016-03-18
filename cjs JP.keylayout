@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.0.2.59 on 2016-03-18 at 10:31 (GMT+7)-->
+<!--Last edited by Ukelele version 3.0.2.59 on 2016-03-18 at 11:17 (GMT+7)-->
 <keyboard group="126" id="-6913" maxout="1" name="cjs JP">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -399,7 +399,7 @@
 			<key code="26" output="¶"/>
 			<key code="27" output="–"/>
 			<key code="28" output="•"/>
-			<key code="29" output="º"/>
+			<key code="29" output="1"/>
 			<key code="30" output="‘"/>
 			<key code="31" output="ø"/>
 			<key action="3" code="32"/>

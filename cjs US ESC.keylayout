@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.0.3.70 on 2016-04-25 at 16:15 (GMT+9)-->
-<keyboard group="24" id="28552" name="U.S." maxout="1">
+<!--Last edited by Ukelele version 3.0.3.70 on 2016-04-25 at 16:16 (GMT+9)-->
+<keyboard group="24" id="28552" name="cjs US ESC" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="984" modifiers="f4"/>

@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.0.4.75 on 2016-07-12 at 13:20 (GMT+9)-->
+<!--Last edited by Ukelele version 3.0.4.75 on 2016-07-12 at 13:52 (GMT+9)-->
 <keyboard group="126" id="-6913" name="cjs JP ESC" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -61,7 +61,7 @@
 			<key code="15" output="r"/>
 			<key code="16" action="19"/>
 			<key code="17" output="t"/>
-			<key code="18" output="&#x001B;"/>
+			<key code="18" output="1"/>
 			<key code="19" output="2"/>
 			<key code="20" output="3"/>
 			<key code="21" output="4"/>
@@ -93,10 +93,10 @@
 			<key code="47" output="."/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" action="5"/>
-			<key code="50" output="`"/>
+			<key code="50" output="&#x001B;"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
-			<key code="53" output="1"/>
+			<key code="53" output="`"/>
 			<key code="65" output="."/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
@@ -202,10 +202,10 @@
 			<key code="47" output="&#x003E;"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" action="5"/>
-			<key code="50" output="~"/>
+			<key code="50" output="&#x001B;"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
-			<key code="53" output="!"/>
+			<key code="53" output="~"/>
 			<key code="65" output="."/>
 			<key code="66" output="*"/>
 			<key code="67" output="*"/>
@@ -311,10 +311,10 @@
 			<key code="47" output="."/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" action="5"/>
-			<key code="50" output="`"/>
+			<key code="50" output="&#x001B;"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
-			<key code="53" output="&#x001B;"/>
+			<key code="53" output="`"/>
 			<key code="65" output="."/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
@@ -420,10 +420,10 @@
 			<key code="47" output="≥"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
-			<key code="50" action="1"/>
+			<key code="50" output="&#x001B;"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
-			<key code="53" output="&#x001B;"/>
+			<key code="53" action="1"/>
 			<key code="65" output="."/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
@@ -529,10 +529,10 @@
 			<key code="47" output="˘"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
-			<key code="50" output="`"/>
+			<key code="50" output="&#x001B;"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
-			<key code="53" output="&#x001B;"/>
+			<key code="53" output="`"/>
 			<key code="65" output="."/>
 			<key code="66" output="*"/>
 			<key code="67" output="*"/>
@@ -638,10 +638,10 @@
 			<key code="47" output="≥"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
-			<key code="50" output="`"/>
+			<key code="50" output="&#x001B;"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
-			<key code="53" output="&#x001B;"/>
+			<key code="53" output="`"/>
 			<key code="65" output="."/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
@@ -747,10 +747,10 @@
 			<key code="47" output="≥"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
-			<key code="50" output="`"/>
+			<key code="50" output="&#x001B;"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
-			<key code="53" output="&#x001B;"/>
+			<key code="53" output="`"/>
 			<key code="65" output="."/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
@@ -856,10 +856,10 @@
 			<key code="47" output="."/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" action="5"/>
-			<key code="50" output="`"/>
+			<key code="50" output="&#x001B;"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
-			<key code="53" output="&#x001B;"/>
+			<key code="53" output="`"/>
 			<key code="65" output="."/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
